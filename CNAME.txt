@@ -1,0 +1,2 @@
+Custom domain
+Custom domains allow you to serve your site from a domain other than
